@@ -125,7 +125,7 @@ Rant will be soon over: it also irks me when I see a polyfill requires jQuery â€
 - Thanks to Trent, Dave and Reagan for [original FitText.js](https://github.com/davatron5000/FitText.js)
 http://fittextjs.com/
 - Thanks to [Remy Sharp](http://remysharp.com/2013/04/19/i-know-jquery-now-what/) for the [javascript used](http://jsbin.com/eberan/9/edit) in the [demo here on Github](http://atelierbram.github.io/FitText.js/)
-- Thanks to Jeremy Keith for the convenient [repo this was cloned from](https://github.com/adactio/FitText.js), one can see [his example demo here](http://atelierbram.github.io/FitText.js/example.html)
+- Thanks to [Jeremy Keith](http://adactio.com/) for the convenient [repo this was cloned from](https://github.com/adactio/FitText.js), one can see [his example demo here](http://atelierbram.github.io/FitText.js/example.html)
 
 ### Addition resources
 
